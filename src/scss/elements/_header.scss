@@ -1,0 +1,21 @@
+header {
+  width: 100vw;
+  height: 5rem;
+  background: $text-accent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  h2 {
+    font-size: 1.5rem;
+    color: $light-background;
+    text-transform: uppercase;
+    padding: 0.2rem;
+    font-family: $font-alt;
+    letter-spacing: 0.1rem;
+  }
+  svg {
+    font-size: 3rem;
+    color: $accent-color;
+  }
+}
