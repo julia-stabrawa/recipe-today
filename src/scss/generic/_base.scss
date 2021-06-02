@@ -14,15 +14,15 @@ body {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: $light-background;
+  background: $text-accent;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: $text-accent;
+  background: $accent-color;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: $text-inactive;
+  background: $text-accent;
 }
