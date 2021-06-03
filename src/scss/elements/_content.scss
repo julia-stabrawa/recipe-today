@@ -8,6 +8,7 @@
   @media #{$media-desktop} {
     margin: 2rem 20rem;
   }
+
   h1 {
     font-size: 1.3rem;
     font-family: $font-alt;
@@ -21,11 +22,38 @@
       font-size: 2rem;
     }
   }
-  .dish__form {
+  form{
+    padding: 1rem;
     width: 100%;
     height: 100%;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
   }
+
+  .basic__form {
+    .form__row {
+      display: flex;
+      flex-direction: column;
+      padding: 1.5rem 2rem;
+
+      label {
+        font-family: $font-alt;
+        color: $text-accent;
+        text-transform: uppercase;
+        font-size: 1.3rem;
+        letter-spacing: 0.05rem;
+        margin-bottom: 1rem;
+      }
+
+      input {
+        border: none;
+        border-bottom: 1px solid $text-color;
+      }
+    }
+  }
+
   button {
     margin-top: 2rem;
     padding: 1rem 3rem 1rem 3rem;

@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aa4021d-7b90-4791-9f13-f0bd8e1abdeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/atoms/ActionBtn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/organisms/DishForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/elements/_content.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/elements/_all.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/elements/_all.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/elements/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/elements/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/generic/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/generic/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/atoms/ActionBtn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ActionBtn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/organisms/DishForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/DishForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/elements/_content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/elements/_content.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622636303659</updated>
-      <workItem from="1622636304866" duration="12465000" />
+      <workItem from="1622636304866" duration="22192000" />
     </task>
     <servers />
   </component>

@@ -1,9 +1,9 @@
 import React from 'react';
 
-const ActionBtn = () => {
+const ActionBtn = ({disabled}) => {
     return (
         <>
-            <button>Add recipe</button>
+            <button type="submit" disabled={disabled}>Add recipe</button>
         </>
     );
 };
