@@ -1,10 +1,19 @@
 import React from 'react';
 
-const ActionBtn = ({disabled}) => {
+const ActionBtn = ({submit, reset, click}) => {
     return (
-        <>
-            <button type="submit" disabled={disabled}>Add recipe</button>
-        </>
+        <div className="buttons">
+            <button type="submit" disabled={submit}>
+                Submit
+            </button>
+            <button
+                type="button"
+                onClick={click}
+                disabled={reset}
+            >
+                Reset
+            </button>
+        </div>
     );
 };
 

@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aa4021d-7b90-4791-9f13-f0bd8e1abdeb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/molecules/Error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/molecules/PizzaOpt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/molecules/SandwichOpt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/molecules/SoupOpt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/molecules/Success.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/organisms/Result.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/elements/_error.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/elements/_rangeInput.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/atoms/ActionBtn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ActionBtn.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/organisms/DishForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/DishForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/elements/_all.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/elements/_all.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/elements/_content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/elements/_content.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Julka\Desktop\recipe-today\src\components\molecules" />
       <recent name="C:\Users\Julka\Desktop\recipe-today\src\components\organisms" />
     </key>
   </component>
@@ -59,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622636303659</updated>
-      <workItem from="1622636304866" duration="22192000" />
+      <workItem from="1622636304866" duration="62307000" />
     </task>
     <servers />
   </component>
