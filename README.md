@@ -6,3 +6,5 @@ Based on your choice new form fields will appear.
 After filling everything you can submit the dish.
 
 App was deployed in Create React App with the usage of Final Form. Given data is submitted using fetch POST.
+
+live: https://recipe-today.herokuapp.com/
